@@ -83,3 +83,7 @@ Public standalone repository first published September 25, 2026.
 - Perspective Expansion: https://github.com/JohnBrajer/perspective-expansion
 - Possibility Reserve: https://github.com/JohnBrajer/possibility-reserve
 - Execution Contract: https://github.com/JohnBrajer/execution-contract
+
+## Reference implementation
+
+An executable Python reference is available at [`examples/reference.py`](./examples/reference.py). It demonstrates the mechanism without claiming that one scoring rule or implementation is universally required.
