@@ -3,6 +3,7 @@ message: "If you use or reference this work, please cite it as below."
 title: "State-Space Trajectory by John Brajer"
 abstract: "State-Space Trajectory by John Brajer: Current State — Action — Weight Shift — New State — New Possibilities."
 type: software
+doi: "10.5281/zenodo.23718119"
 authors:
   - family-names: Brajer
     given-names: John

@@ -1,5 +1,8 @@
 # State-Space Trajectory
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23718119.svg)](https://doi.org/10.5281/zenodo.23718119) [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--0113--1341-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-0113-1341)
+
+
 **John Brajer — Choseverse decision architecture**  
 Public version: 0.1.
 
@@ -87,3 +90,7 @@ Public standalone repository first published September 25, 2026.
 ## Reference implementation
 
 An executable Python reference is available at [`examples/reference.py`](./examples/reference.py). It demonstrates the mechanism without claiming that one scoring rule or implementation is universally required.
+
+## Cite
+
+Brajer, J. (State Space Trajectory). Zenodo. https://doi.org/10.5281/zenodo.23718119 · ORCID [0009-0004-0113-1341](https://orcid.org/0009-0004-0113-1341)
